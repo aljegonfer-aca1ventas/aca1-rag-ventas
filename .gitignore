@@ -1,0 +1,12 @@
+# Secretos
+.env
+kaggle.json
+
+# Datos y caché locales
+cache/
+corpus/*.pdf
+*.npz
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/

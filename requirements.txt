@@ -1,0 +1,11 @@
+# Versiones sin fijar a propósito: se fijarán con las versiones reales impresas
+# en la Sección 2.2 del notebook tras la primera ejecución exitosa.
+qdrant-client
+google-genai
+kagglehub
+pandas
+numpy
+pypdf
+langchain-text-splitters
+python-dotenv
+requests
